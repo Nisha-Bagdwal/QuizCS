@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp">
+
+    <TextView
+        android:textColor="@color/input_register_bg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:text="1. Nisha Bagdwal(44951)"/>
+
+    <TextView
+        android:textColor="@color/input_register_bg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:text="2. Nitin Koul(44965)"/>
+
+    <TextView
+        android:textColor="@color/input_register_bg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:text="3. Mayank Saxena(44959)"/>
+
+    <TextView
+        android:textColor="@color/input_register_bg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:text="4. Priyanka Mehta(44958)"/>
+
+</LinearLayout>

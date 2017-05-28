@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp">
+    <TextView
+        android:textColor="@color/input_register_bg"
+        android:layout_margin="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1. All questions are compulsory."/>
+    <TextView
+        android:textColor="@color/input_register_bg"
+        android:layout_margin="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2. All questions carry equal marks." />
+    <TextView
+        android:textColor="@color/input_register_bg"
+        android:layout_margin="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="3. Each question must be attempted within 60 seconds."/>
+    <TextView
+        android:textColor="@color/input_register_bg"
+        android:layout_margin="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="4. Each correct response will fetch +4 marks."/>
+    <TextView
+        android:textColor="@color/input_register_bg"
+        android:layout_margin="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="5. Each incorrect response will deduct 1 mark from the overall score of the candidate."/>
+    <TextView
+        android:textColor="@color/input_register_bg"
+        android:layout_margin="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="6. An un-attempted question will NOT be evaluated or it will fetch zero marks. "/>
+</LinearLayout>
